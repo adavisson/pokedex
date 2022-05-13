@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Pokedex
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Build an app that will interact with this [Pokemon API](https://pokeapi.co/docs/v2) and present the data in decent way. 
 
 ## Available Scripts
 
